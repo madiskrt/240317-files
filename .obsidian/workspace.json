@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "new notes.md",
+                "file": "240318 file.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "new notes.md",
+                "file": "240318 file.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "new notes.md",
+                "file": "240318 file.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "new notes.md"
+                "file": "240318 file.md"
               }
             }
           }
@@ -211,11 +211,11 @@
   },
   "active": "8ef4a733d8237502",
   "lastOpenFiles": [
+    "new notes.md",
     "240318 file.md",
     "uus 240317@1743.md",
     "uus.md",
     "test.md",
-    "Welcome.md",
-    "new notes.md"
+    "Welcome.md"
   ]
 }
