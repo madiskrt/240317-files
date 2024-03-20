@@ -78,9 +78,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fc7518e56dfa1650",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "df12fcf777e320e8",
@@ -221,7 +231,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "77a473849c26b00c",
+  "active": "fc7518e56dfa1650",
   "lastOpenFiles": [
     "uus 240317@1743.md",
     "new file 240319.md",
